@@ -1,0 +1,24 @@
+{
+  "name": "web-service-project1",
+  "version": "1.0.0",
+  "description": "ameiz first project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ameizstanley/web-service-project1.git"
+  },
+  "author": "Ameiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ameizstanley/web-service-project1/issues"
+  },
+  "homepage": "https://github.com/Ameizstanley/web-service-project1#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongodb": "^6.20.0"
+  }
+}
