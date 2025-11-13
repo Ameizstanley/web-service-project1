@@ -5,7 +5,7 @@
     "description": "Users Api",
     "version": "1.0.0"
   },
-  "host": "https://web-service-project1.onrender.com",
+  "host": "web-service-project1.onrender.com",
   "basePath": "/",
   "schemes": [
     "http"
